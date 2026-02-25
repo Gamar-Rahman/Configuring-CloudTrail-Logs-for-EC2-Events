@@ -1,0 +1,11 @@
+{
+  "eventTime": "2026-02-24T20:15:32Z",
+  "eventName": "RunInstances",
+  "userIdentity": {
+    "type": "IAMUser",
+    "userName": "admin-user"
+  },
+  "sourceIPAddress": "203.0.113.10",
+  "awsRegion": "us-east-1",
+  "eventSource": "ec2.amazonaws.com"
+}
